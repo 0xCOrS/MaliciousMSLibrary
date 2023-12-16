@@ -18,7 +18,7 @@ This repository contains code for a malicious ms-Library that shows the content 
 <isDefaultSaveLocation>true</isDefaultSaveLocation>
 <isSupported>false</isSupported>
 <simpleLocation>
-<url>http://192.168.119.2</url>
+<url>http://10.10.10.10</url>
 </simpleLocation>
 </searchConnectorDescription>
 </searchConnectorDescriptionList>
