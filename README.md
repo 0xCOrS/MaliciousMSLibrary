@@ -4,10 +4,10 @@ Malicious Library-ms Example Code
 
 This repository contains code for a malicious ms-Library that shows the content of a attacker-controlled WebDAV server.
 
-From the code below, changing *<iconReference>*  value to -1002 (keeping the same DLL) will change the icon to a Windows Documents folder. 
+From the code below, changing *iconReference*  value to -1002 (keeping the same DLL) will change the icon to a Windows Documents folder. 
 Actual value (-1003) sets the icon of an Image file icon.
 
-*<url>* value must be changed to the WebDAV server address.
+*url* value must be changed to the WebDAV server address.
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
